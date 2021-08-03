@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+  color: pink;
+}
+
+p {
+  font-family: 'Times New Roman', Times, serif;
+  color: maroon;
+}
+
+body {
+  background-color: red;
+}
+
+ul {
+  text-align: right;
+  color: salmon
+}
